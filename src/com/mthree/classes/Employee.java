@@ -1,4 +1,4 @@
-package com.mthree;
+package com.mthree.classes;
 
 public class Employee {
 	private int id;

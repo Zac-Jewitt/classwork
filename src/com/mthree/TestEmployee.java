@@ -1,3 +1,4 @@
+package com.mthree;
 import com.mthree.classes.Employee;
 
 public class TestEmployee {
