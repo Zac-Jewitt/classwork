@@ -6,7 +6,6 @@ public class DoWhileLoop {
 		int num1 = 0;
 		int num2 = 1;
 		int counter = 10;
-		String result = "";
 		
 		
 		do {
