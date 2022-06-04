@@ -1,4 +1,4 @@
-package controlflowassignments;
+package assignments.controlflow;
 
 public class SwitchCaseTest {
 

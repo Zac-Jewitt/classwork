@@ -1,4 +1,4 @@
-package stringmanipulationsassignments;
+package assignments.stringmanipulations;
 
 public class Assignment1 {
 
